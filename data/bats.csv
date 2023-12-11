@@ -1,0 +1,151 @@
+"ID","common_name","scientific_name","sex","weight","wingspan"
+1,"California Myotis","Myotis californicus","M",5.3,23.6
+2,"Pallid Bat","Antrozous pallidus","M",14.9,39.2
+3,"Yuma Myotis","Myotis yumanensis","M",7.4,25.6
+4,"Big Brown Bat","Eptesicus fuscus","F",16.6,30.6
+5,"California Myotis","Myotis californicus","F",6.3,24.6
+6,"Pallid Bat","Antrozous pallidus","M",14.1,38.9
+7,"Pallid Bat","Antrozous pallidus","F",16.2,40.1
+8,"Pallid Bat","Antrozous pallidus","M",NA,39.1
+9,"Pallid Bat","Antrozous pallidus","F",17.5,39.7
+10,"California Myotis","Myotis californicus","M",5.5,25.6
+11,"Brown Bat","Myotis lucifugus","M",5.2,NA
+12,"California Myotis","Myotis californicus","M",5.8,NA
+13,"Brown Bat","Myotis lucifugus","F",3.6,24.1
+14,"Yuma Myotis","Myotis yumanensis","M",6.4,NA
+15,"Pallid Bat","Antrozous pallidus","M",15.2,38.7
+16,"Big Brown Bat","Eptesicus fuscus","M",12.2,31
+17,"Brown Bat","Myotis lucifugus","M",7.5,25.9
+18,"California Myotis","Myotis californicus","M",6.2,24.3
+19,"California Myotis","Myotis californicus","F",5.3,23.9
+20,"California Myotis","Myotis californicus","M",5.7,23.7
+21,"Yuma Myotis","Myotis yumanensis","F",6.7,24.1
+22,"Big Brown Bat","Eptesicus fuscus","M",12.7,34.6
+23,"Yuma Myotis","Myotis yumanensis","M",5.4,20.9
+24,"Pallid Bat","Antrozous pallidus","F",15.2,NA
+25,"Yuma Myotis","Myotis yumanensis","M",4.4,25.9
+26,"Big Brown Bat","Eptesicus fuscus","M",14.9,35.2
+27,"California Myotis","Myotis californicus","F",5.9,24.2
+28,"Yuma Myotis","Myotis yumanensis","F",6.2,23
+29,"Brown Bat","Myotis lucifugus","M",6,NA
+30,"Yuma Myotis","Myotis yumanensis","M",7.1,26.4
+31,"Brown Bat","Myotis lucifugus","M",5.3,26.3
+32,"Pallid Bat","Antrozous pallidus","M",16,39.6
+33,"Pallid Bat","Antrozous pallidus","M",16.2,38.7
+34,"California Myotis","Myotis californicus","F",5.8,24.7
+35,"Brown Bat","Myotis lucifugus","M",6.2,31.8
+36,"California Myotis","Myotis californicus","M",6.4,24.7
+37,"Brown Bat","Myotis lucifugus","F",6.3,13.6
+38,"Pallid Bat","Antrozous pallidus","M",14.5,38.9
+39,"California Myotis","Myotis californicus","M",5.1,23.5
+40,"Yuma Myotis","Myotis yumanensis","M",5.5,18.2
+41,"Pallid Bat","Antrozous pallidus","F",15.9,39
+42,"California Myotis","Myotis californicus","M",6.3,24.2
+43,"Pallid Bat","Antrozous pallidus","F",14.3,38.7
+44,"Brown Bat","Myotis lucifugus","F",3,NA
+45,"Brown Bat","Myotis lucifugus","F",NA,16.2
+46,"Big Brown Bat","Eptesicus fuscus","F",14,29.5
+47,"Yuma Myotis","Myotis yumanensis","M",6.4,19.9
+48,"Brown Bat","Myotis lucifugus","M",7,27.3
+49,"Pallid Bat","Antrozous pallidus","F",14.9,39.7
+50,"Big Brown Bat","Eptesicus fuscus","F",12.6,34.1
+51,"Big Brown Bat","Eptesicus fuscus","F",13.9,39.9
+52,"Yuma Myotis","Myotis yumanensis","F",6.9,25.8
+53,"Pallid Bat","Antrozous pallidus","F",14.1,38.6
+54,"Brown Bat","Myotis lucifugus","F",4.8,27.3
+55,"California Myotis","Myotis californicus","F",5.7,23.2
+56,"Big Brown Bat","Eptesicus fuscus","F",13.4,42.9
+57,"Big Brown Bat","Eptesicus fuscus","M",13.2,34.8
+58,"Brown Bat","Myotis lucifugus","M",4.2,23.5
+59,"Yuma Myotis","Myotis yumanensis","M",7.8,28.5
+60,"Yuma Myotis","Myotis yumanensis","F",4.2,20.5
+61,"Pallid Bat","Antrozous pallidus","F",16.7,39.4
+62,"Brown Bat","Myotis lucifugus","F",8.3,NA
+63,"Big Brown Bat","Eptesicus fuscus","F",14.6,36.3
+64,"Brown Bat","Myotis lucifugus","M",4.4,19.7
+65,"Pallid Bat","Antrozous pallidus","M",NA,39.9
+66,"Brown Bat","Myotis lucifugus","F",7.5,22.2
+67,"Brown Bat","Myotis lucifugus","M",4.9,25.2
+68,"Yuma Myotis","Myotis yumanensis","F",5.4,21.2
+69,"Pallid Bat","Antrozous pallidus","F",15,39.8
+70,"Pallid Bat","Antrozous pallidus","M",15.4,39.3
+71,"Pallid Bat","Antrozous pallidus","F",16.3,39.2
+72,"Pallid Bat","Antrozous pallidus","M",15,NA
+73,"Pallid Bat","Antrozous pallidus","F",15.4,40.2
+74,"Brown Bat","Myotis lucifugus","M",8.2,20.9
+75,"Yuma Myotis","Myotis yumanensis","F",5.6,23.4
+76,"Pallid Bat","Antrozous pallidus","F",15.6,39.5
+77,"Big Brown Bat","Eptesicus fuscus","M",14.9,39.5
+78,"Pallid Bat","Antrozous pallidus","F",NA,NA
+79,"Yuma Myotis","Myotis yumanensis","M",6.1,27.7
+80,"California Myotis","Myotis californicus","M",6.4,24.1
+81,"California Myotis","Myotis californicus","M",5.4,23.3
+82,"Brown Bat","Myotis lucifugus","M",6,26.4
+83,"California Myotis","Myotis californicus","F",6.1,NA
+84,"Yuma Myotis","Myotis yumanensis","F",5.1,22.9
+85,"Brown Bat","Myotis lucifugus","F",6.2,24.5
+86,"Pallid Bat","Antrozous pallidus","F",16.3,39.9
+87,"Brown Bat","Myotis lucifugus","M",5.9,22.3
+88,"Yuma Myotis","Myotis yumanensis","F",6.6,19
+89,"Big Brown Bat","Eptesicus fuscus","M",12.8,39
+90,"Pallid Bat","Antrozous pallidus","F",14.8,39.6
+91,"Pallid Bat","Antrozous pallidus","F",16.2,40
+92,"Yuma Myotis","Myotis yumanensis","M",6.4,22.1
+93,"Yuma Myotis","Myotis yumanensis","M",6.3,24.7
+94,"Yuma Myotis","Myotis yumanensis","M",7.3,25.3
+95,"Big Brown Bat","Eptesicus fuscus","F",15.6,35
+96,"Yuma Myotis","Myotis yumanensis","F",NA,26
+97,"Big Brown Bat","Eptesicus fuscus","F",12.2,33
+98,"California Myotis","Myotis californicus","F",6,23.5
+99,"Big Brown Bat","Eptesicus fuscus","F",13.2,39.2
+100,"Pallid Bat","Antrozous pallidus","M",14.8,39.2
+101,"Yuma Myotis","Myotis yumanensis","M",7.8,23.1
+102,"California Myotis","Myotis californicus","F",6.1,24.8
+103,"Brown Bat","Myotis lucifugus","F",5.1,27.1
+104,"Big Brown Bat","Eptesicus fuscus","F",14.1,32.9
+105,"California Myotis","Myotis californicus","F",6,23
+106,"California Myotis","Myotis californicus","M",6.1,23.7
+107,"Brown Bat","Myotis lucifugus","M",7,17.9
+108,"Yuma Myotis","Myotis yumanensis","M",5.8,30.4
+109,"Big Brown Bat","Eptesicus fuscus","M",NA,43.5
+110,"Brown Bat","Myotis lucifugus","M",NA,17.7
+111,"Brown Bat","Myotis lucifugus","F",5.4,26.6
+112,"Big Brown Bat","Eptesicus fuscus","F",14.4,39.2
+113,"Big Brown Bat","Eptesicus fuscus","M",11.6,39.7
+114,"Big Brown Bat","Eptesicus fuscus","F",12.3,45.8
+115,"California Myotis","Myotis californicus","M",6,24.1
+116,"Yuma Myotis","Myotis yumanensis","F",6,24.6
+117,"Pallid Bat","Antrozous pallidus","F",16.3,38.9
+118,"Big Brown Bat","Eptesicus fuscus","F",15.6,NA
+119,"Brown Bat","Myotis lucifugus","M",6.4,27.9
+120,"Big Brown Bat","Eptesicus fuscus","F",13.3,38.5
+121,"Yuma Myotis","Myotis yumanensis","M",6,19.8
+122,"Yuma Myotis","Myotis yumanensis","F",7.5,26.5
+123,"California Myotis","Myotis californicus","M",5.9,24.1
+124,"Pallid Bat","Antrozous pallidus","F",13.1,37.8
+125,"Big Brown Bat","Eptesicus fuscus","M",12,35.1
+126,"Yuma Myotis","Myotis yumanensis","M",6.3,28
+127,"Yuma Myotis","Myotis yumanensis","M",7.3,23.7
+128,"Yuma Myotis","Myotis yumanensis","F",8.6,20.9
+129,"Big Brown Bat","Eptesicus fuscus","F",13.7,35.4
+130,"Brown Bat","Myotis lucifugus","M",5.9,21.4
+131,"California Myotis","Myotis californicus","M",5.8,22.7
+132,"Pallid Bat","Antrozous pallidus","M",14.2,38.8
+133,"California Myotis","Myotis californicus","M",5.7,23.4
+134,"Pallid Bat","Antrozous pallidus","F",15.3,39.3
+135,"California Myotis","Myotis californicus","M",5.9,23.9
+136,"Brown Bat","Myotis lucifugus","M",4.2,28.3
+137,"Brown Bat","Myotis lucifugus","F",5.9,19.6
+138,"Pallid Bat","Antrozous pallidus","M",NA,39.3
+139,"California Myotis","Myotis californicus","M",5.9,24.2
+140,"Pallid Bat","Antrozous pallidus","F",15.4,39.1
+141,"California Myotis","Myotis californicus","F",6.1,24.9
+142,"Big Brown Bat","Eptesicus fuscus","F",12.8,40.3
+143,"Big Brown Bat","Eptesicus fuscus","M",12.1,43.2
+144,"Big Brown Bat","Eptesicus fuscus","M",13.6,31.3
+145,"California Myotis","Myotis californicus","M",6.2,25
+146,"California Myotis","Myotis californicus","F",5.7,24.1
+147,"Pallid Bat","Antrozous pallidus","F",15.8,38.8
+148,"Brown Bat","Myotis lucifugus","M",5.9,27.7
+149,"Brown Bat","Myotis lucifugus","F",6.3,26.7
+150,"California Myotis","Myotis californicus","F",5.9,23.9
